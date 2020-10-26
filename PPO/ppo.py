@@ -1,4 +1,4 @@
-# Author: Krishan Rana
+
 # MineRL Competition
 # August 2020
 
